@@ -74,23 +74,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-k-verma&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-k-verma&theme=tokyonight" alt="GitHub Streak" width="49%"/>
-</p>
-
----
-
-### 🧠 TryHackMe Progress
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ravi-k-verma.png" alt="TryHackMe Badge" />
-</p>
-
----
-
 ### 🧩 Connect with Me
 
 <p align="center">
