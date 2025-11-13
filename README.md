@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-k-verma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/ravi-k-verma"><img src="https://img.shields.io/badge/TryHackMe-Red?style=flat&logo=tryhackme&logoColor=white" /></a>
-  <a href="mailto:ravi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/vrma_nyt"><img src="https://img.shields.io/badge/TryHackMe-Red?style=flat&logo=tryhackme&logoColor=white" /></a>
+  <a href="mailto:24bcs096@nith.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=ravi-k-verma&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
 
