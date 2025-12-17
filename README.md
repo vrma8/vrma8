@@ -16,7 +16,7 @@
 🎓 I’m a **B.Tech CSE’28 student at NIT Hamirpur**, curious, driven, and committed to learning through hands-on experience.  
 💻 Currently diving into the world of **Cybersecurity**, exploring **ethical hacking, web application security, and network defense**.  
 🧩 I love experimenting with **hardware + security**, blending robotics with digital forensics and system protection.  
-🌱 Always learning, always building.  
+🌱 Always learning.  
 🎯 My goal — to create tech that’s both **innovative and secure**.
 
 ---
@@ -63,14 +63,6 @@
 - Web Application Pentesting  
 - Web Fundamentals  
 - Pre Security  
-
----
-
-### 💻 Featured Projects
-
-- 💡 **Light-Based Wireless Messaging System** — Send & receive data via LED and LDR  
-- 🔒 **Offline Intrusion Detection System** — Hardware-based tamper alert for air-gapped environments  
-- 🌐 **Wi-Fi Repeater (ESP32)** — Extending wireless range with custom firmware  
 
 ---
 
