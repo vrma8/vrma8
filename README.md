@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile.gif" width="100%" />
+  <img src="./assets/profile.jpg" width="100%" />
 </div>
 # 💫 Hey:
 ### 👨‍💻 About Me
