@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey:
 🔭 I’m currently working on **Software Development & Cybersecurity Projects**<br>🤝 I’m looking to collaborate on **Cybersecurity, Software & Open-Source Projects**<br>🛡️ I’m currently exploring **System Security, Web Security & Secure Software Development**<br>🌱 I’m currently learning **Advanced Cybersecurity & Scalable Software Systems**<br>💬 Ask me about **Cybersecurity, C++, Web Development & Networking**<br>⚡ Fun fact: **I enjoy building systems just as much as breaking them**
 
 
@@ -19,6 +19,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=vrma8&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- -->
