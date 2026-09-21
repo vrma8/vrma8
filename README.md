@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=4000&amp;pause=1400&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=54&amp;lines=Hey+%3A%29;Build+secure.+Break+smart.+Learn+constantly.;Always+learning%2C+building%2C+breaking%2C+and+rebuilding+better" width="92%" alt="Build secure. Break smart. Learn constantly. Always learning, building, breaking, and rebuilding better" />
 </picture>
 <br>
-<img src="./assets/sweep.svg" width="86%" alt="" />
+<img src="./assets/sweep.svg" width="95%" alt="" />
 <br>
 <!-- <img src="./assets/emblem.gif" width="68%" alt="" />
 <br> -->
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<img src="./assets/sweep.svg" width="86%" alt="" />
+<img src="./assets/sweep.svg" width="95%" alt="" />
 <h2>🌐 Socials:</h2>
 <a href="https://discord.gg/NcA3NfsjCD"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/vrma_nyt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-<img src="./assets/sweep.svg" width="86%" alt="" />
+<img src="./assets/sweep.svg" width="95%" alt="" />
 <h1>📊 GitHub Stats:</h1>
 <img src="https://github-readme-stats.shion.dev/api?username=vrma8&amp;theme=midnight-purple&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true" width="48%" alt="" />
 <img src="https://streak-stats.demolab.com/?user=vrma8&amp;theme=midnight-purple&amp;hide_border=true" width="48%" alt="" />
