@@ -37,7 +37,7 @@
 <a href="mailto:24bcs096@nith.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="email" /></a>
 <br><br>
 <h1>💻 Tech Stack:</h1>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" />&nbsp;
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&amp;logo=c&amp;logoColor=white" alt="C" />&nbsp;
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />&nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />&nbsp;
 <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript" />&nbsp;
