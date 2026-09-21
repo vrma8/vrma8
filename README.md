@@ -11,6 +11,9 @@
 <!-- <img src="./assets/emblem.gif" width="68%" alt="" />
 <br> -->
 <h3>👨‍💻 About Me</h3>
+</div>
+
+<div align="left">
 <p>
 🎓 Pre-Final Year B.Tech CSE student at <strong>National Institute of Technology, Hamirpur</strong><br>
 🔐 Passionate about <strong>building secure &amp; scalable systems — and breaking the weaker ones</strong><br>
