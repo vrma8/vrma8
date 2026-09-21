@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="./assets/kali-linux.png" width="100%" />
+  <img src="./assets/camfire.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./assets/cat falling.gif" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./assets/hello world.gif" width="100%" />
 </div>
 
 #  Hey :)
