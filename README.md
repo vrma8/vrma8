@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/kali-linux.jpg" width="100%" />
+  <img src="./assets/kali-linux.png" width="100%" />
 </div>
 
 #  Hey :)
