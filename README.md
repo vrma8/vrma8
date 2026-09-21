@@ -117,7 +117,7 @@
 <img src="./assets/sweep.svg" width="95%" alt="" />
 <h1>📊 GitHub Stats:</h1>
 <img src="https://github-readme-stats.shion.dev/api?username=vrma8&amp;theme=midnight-purple&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true" width="48%" alt="" />
-<img src="https://streak-stats.demolab.com/?user=vrma8&amp;theme=midnight-purple&amp;hide_border=true" width="48%" alt="" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vrma8&theme=midnight-purple&hide_border=true" width="48%" alt="" />
 <br><br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vrma8&amp;theme=midnight-purple&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" width="62%" alt="" />
 <br>
