@@ -1,12 +1,6 @@
 <div align="center">
-  <img src="./assets/camfire.gif" width="100%" />
+  <img src="./assets/profile.png" width="100%" />
 </div>
-
-<div align="center">
-  <img src="./assets/hello world.gif" width="100%" />
-</div>
-
-
 
 #  Hey :)
 ### 👨‍💻 About Me
