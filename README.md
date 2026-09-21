@@ -1,13 +1,13 @@
 # 💫 Hey:
 ### 👨‍💻 About Me
 
-🎓 Pre-Final Year B.Tech CSE student at **National Institute of Technology, Hamirpur**
-🔐 Passionate about **building secure & scalable systems — and breaking the weaker ones**
-🛡️ **Domain Lead @ SHIELD**, the Cybersecurity Society of NIT Hamirpur
-💻 Currently sharpening my skills in **Software Development, System Security & Cybersecurity**
-🚀 Interested in **Cybersecurity, Full-Stack Development, AI Systems & Networking**
-🧠 Always learning, building, breaking, and rebuilding better
-⚡ *Build secure. Break smart. Learn constantly.*
+🎓 Pre-Final Year B.Tech CSE student at **National Institute of Technology, Hamirpur** <br>
+🔐 Passionate about **building secure & scalable systems — and breaking the weaker ones** <br>
+🛡️ **Domain Lead @ SHIELD**, the Cybersecurity Society of NIT Hamirpur <br>
+💻 Currently sharpening my skills in **Software Development, System Security & Cybersecurity** <br>
+🚀 Interested in **Cybersecurity, Full-Stack Development, AI Systems & Networking** <br>
+🧠 Always learning, building, breaking, and rebuilding better <br>
+⚡ *Build secure. Break smart. Learn constantly.* <br>
 
 
 ## 🌐 Socials:
@@ -29,3 +29,4 @@
 ---
 
 <!-- -->
+
