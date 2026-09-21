@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://tenor.com/view/flower-gif-9785975670306228258" width="100%" />
-</div> 
+  <img src="./assets/profile.gif" width="100%" />
+</div>
 # 💫 Hey:
 ### 👨‍💻 About Me
 
