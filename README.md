@@ -122,7 +122,7 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vrma8&amp;theme=midnight-purple&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" width="62%" alt="" />
 <br>
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=vrma8&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" width="100%" alt="" />
+<img src="https://github-trophies.vercel.app/?username=vrma8&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%" alt="" />
 <br>
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="" />
