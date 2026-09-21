@@ -1,5 +1,13 @@
 # 💫 Hey:
-🔭 I’m currently working on **Software Development & Cybersecurity Projects**<br>🤝 I’m looking to collaborate on **Cybersecurity, Software & Open-Source Projects**<br>🛡️ I’m currently exploring **System Security, Web Security & Secure Software Development**<br>🌱 I’m currently learning **Advanced Cybersecurity & Scalable Software Systems**<br>💬 Ask me about **Cybersecurity, C++, Web Development & Networking**<br>⚡ Fun fact: **I enjoy building systems just as much as breaking them**
+### 👨‍💻 About Me
+
+🎓 Pre-Final Year B.Tech CSE student at **National Institute of Technology, Hamirpur**
+🔐 Passionate about **building secure & scalable systems — and breaking the weaker ones**
+🛡️ **Domain Lead @ SHIELD**, the Cybersecurity Society of NIT Hamirpur
+💻 Currently sharpening my skills in **Software Development, System Security & Cybersecurity**
+🚀 Interested in **Cybersecurity, Full-Stack Development, AI Systems & Networking**
+🧠 Always learning, building, breaking, and rebuilding better
+⚡ *Build secure. Break smart. Learn constantly.*
 
 
 ## 🌐 Socials:
