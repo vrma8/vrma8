@@ -1,5 +1,4 @@
 <img src="./assets/horizon.svg" width="100%" alt="" />
-
 <div align="center">
 <img src="./assets/profile.png" width="100%" alt="Welcome" />
 <br>
