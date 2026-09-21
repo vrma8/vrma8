@@ -1,5 +1,3 @@
-<img src="./assets/horizon.svg" width="100%" alt="" />
-<div align="center">
 <img src="./assets/profile.png" width="100%" alt="Welcome" />
 <br>
 <picture>
@@ -127,6 +125,13 @@
 <br>
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="" />
+<br>
+<p align="center">
+<img src="https://github-contribution-grid-snake-2.vercel.app/graph?username=vrma8&theme=dark&color_scheme=gitkraken&hide_border=false">
+</p>
+
+<img src="./assets/horizon.svg" width="100%" alt="" />
+<div align="center">
 <br>
 <img src="./assets/dinosour.svg" width="100%" alt="" />
 </div>
