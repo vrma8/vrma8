@@ -128,4 +128,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="" />
 <br><br>
 <img src="./assets/horizon.svg" width="100%" alt="" />
+<br>
+<img src="./assets/dinosour.svg" width="100%" alt="" />
 </div>
