@@ -2,7 +2,7 @@
   <img src="./assets/profile.jpg" width="100%" />
 </div>
 
-# 💫 Hey:
+#  Hey :)
 ### 👨‍💻 About Me
 
 🎓 Pre-Final Year B.Tech CSE student at **National Institute of Technology, Hamirpur** <br>
