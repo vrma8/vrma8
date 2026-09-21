@@ -1,3 +1,5 @@
+<img src="./assets/horizon.svg" width="100%" alt="" />
+
 <div align="center">
 <img src="./assets/profile.png" width="100%" alt="Welcome" />
 <br>
@@ -126,8 +128,6 @@
 <br>
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="" />
-<br><br>
-<img src="./assets/horizon.svg" width="100%" alt="" />
 <br>
 <img src="./assets/dinosour.svg" width="100%" alt="" />
 </div>
