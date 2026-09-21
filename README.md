@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/camfire.mp4" width="100%" />
+  <img src="./assets/camfire.gif" width="100%" />
 </div>
 
 <div align="center">
