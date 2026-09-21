@@ -38,79 +38,79 @@
 <br><br>
 <h1>💻 Tech Stack:</h1>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&amp;logo=c&amp;logoColor=white" alt="C" />&nbsp;
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />&nbsp;
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />&nbsp;
-<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript" />&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&amp;logo=csharp&amp;logoColor=white" alt="C#" />&nbsp;
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />&nbsp;
+<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&amp;logo=assemblyscript&amp;logoColor=white" alt="AssemblyScript" />&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5" />&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
 <br>
-<img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX" />&nbsp;
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&amp;logo=markdown&amp;logoColor=white" alt="Markdown" />&nbsp;
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" />&nbsp;
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />&nbsp;
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash Script" />
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&amp;logo=latex&amp;logoColor=white" alt="LaTeX" />&nbsp;
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&amp;logo=markdown&amp;logoColor=white" alt="Markdown" />&nbsp;
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&amp;logo=php&amp;logoColor=white" alt="PHP" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=plastic&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&amp;logo=powershell&amp;logoColor=white" alt="PowerShell" />&nbsp;
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash Script" />
 <br>
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&amp;logo=windows-terminal&amp;logoColor=white" alt="Windows Terminal" />&nbsp;
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />&nbsp;
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />&nbsp;
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native" />&nbsp;
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&amp;logo=Canva&amp;logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&amp;logo=windows-terminal&amp;logoColor=white" alt="Windows Terminal" />&nbsp;
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />&nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS3" />&nbsp;
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&amp;logo=react&amp;logoColor=%2361DAFB" alt="React" />&nbsp;
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&amp;logo=react&amp;logoColor=%2361DAFB" alt="React Native" />&nbsp;
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&amp;logo=Canva&amp;logoColor=white" alt="Canva" />
 <br>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white" alt="Postman" />&nbsp;
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />&nbsp;
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />&nbsp;
-<img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat-square&amp;logo=gitlab&amp;logoColor=white" alt="GitLab CI" />&nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&amp;logo=postman&amp;logoColor=white" alt="Postman" />&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&amp;logo=git&amp;logoColor=white" alt="Git" />&nbsp;
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />&nbsp;
+<img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&amp;logo=gitlab&amp;logoColor=white" alt="GitLab CI" />&nbsp;
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 <br>
-<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />&nbsp;
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />&nbsp;
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />&nbsp;
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />&nbsp;
-<img src="https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat-square&amp;logo=tampermonkey&amp;logoColor=white" alt="Tampermonkey" />&nbsp;
-<img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square&amp;logo=Apache%20Flink&amp;logoColor=white" alt="Apache Flink" />
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&amp;logo=docker&amp;logoColor=white" alt="Docker" />&nbsp;
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />&nbsp;
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />&nbsp;
+<img src="https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&amp;logo=tampermonkey&amp;logoColor=white" alt="Tampermonkey" />&nbsp;
+<img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=plastic&amp;logo=Apache%20Flink&amp;logoColor=white" alt="Apache Flink" />
 <br>
-<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat-square&amp;logo=eslint&amp;logoColor=white" alt="ESLint" />&nbsp;
-<img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS" />&nbsp;
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="Postgres" />&nbsp;
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare" />&nbsp;
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify" />&nbsp;
-<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&amp;logo=render&amp;logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=plastic&amp;logo=eslint&amp;logoColor=white" alt="ESLint" />&nbsp;
+<img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&amp;logo=ros&amp;logoColor=white" alt="ROS" />&nbsp;
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&amp;logo=postgresql&amp;logoColor=white" alt="Postgres" />&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare" />&nbsp;
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify" />&nbsp;
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&amp;logo=render&amp;logoColor=white" alt="Render" />
 <br>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js" />&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&amp;logo=fastapi" alt="FastAPI" />&nbsp;
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&amp;logo=JSON%20web%20tokens" alt="JWT" />&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="NPM" />&nbsp;
-<img src="https://img.shields.io/badge/Next-black?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next JS" />&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="NodeJS" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js" />&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&amp;logo=fastapi" alt="FastAPI" />&nbsp;
+<img src="https://img.shields.io/badge/JWT-black?style=plastic&amp;logo=JSON%20web%20tokens" alt="JWT" />&nbsp;
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&amp;logo=npm&amp;logoColor=white" alt="NPM" />&nbsp;
+<img src="https://img.shields.io/badge/Next-black?style=plastic&amp;logo=next.js&amp;logoColor=white" alt="Next JS" />&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&amp;logo=node.js&amp;logoColor=white" alt="NodeJS" />
 <br>
-<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&amp;logo=pnpm&amp;logoColor=f69220" alt="PNPM" />&nbsp;
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />&nbsp;
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS" />&nbsp;
-<img src="https://img.shields.io/badge/threejs-black?style=flat-square&amp;logo=three.js&amp;logoColor=white" alt="Three js" />&nbsp;
-<img src="https://img.shields.io/badge/web3.js-F16822?style=flat-square&amp;logo=web3.js&amp;logoColor=white" alt="Web3.js" />&nbsp;
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&amp;logo=pnpm&amp;logoColor=f69220" alt="PNPM" />&nbsp;
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&amp;logo=tailwind-css&amp;logoColor=white" alt="TailwindCSS" />&nbsp;
+<img src="https://img.shields.io/badge/threejs-black?style=plastic&amp;logo=three.js&amp;logoColor=white" alt="Three js" />&nbsp;
+<img src="https://img.shields.io/badge/web3.js-F16822?style=plastic&amp;logo=web3.js&amp;logoColor=white" alt="Web3.js" />&nbsp;
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" />
 <br>
-<img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat-square&amp;logo=apache-cassandra&amp;logoColor=white" alt="ApacheCassandra" />&nbsp;
-<img src="https://img.shields.io/badge/firebase-a08021?style=flat-square&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase" />&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer" />&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />&nbsp;
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />&nbsp;
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&amp;logo=apache-cassandra&amp;logoColor=white" alt="ApacheCassandra" />&nbsp;
+<img src="https://img.shields.io/badge/firebase-a08021?style=plastic&amp;logo=firebase&amp;logoColor=ffcd34" alt="Firebase" />&nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer" />&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />&nbsp;
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />&nbsp;
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&amp;logo=redis&amp;logoColor=white" alt="Redis" />
 <br>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&amp;logo=Prisma&amp;logoColor=white" alt="Prisma" />&nbsp;
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=flat-square&amp;logo=gimp&amp;logoColor=FFFFFF" alt="Gimp" />&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&amp;logo=Matplotlib&amp;logoColor=black" alt="Matplotlib" />&nbsp;
-<img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&amp;logo=cmake&amp;logoColor=white" alt="CMake" />&nbsp;
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&amp;logo=Prisma&amp;logoColor=white" alt="Prisma" />&nbsp;
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&amp;logo=figma&amp;logoColor=white" alt="Figma" />&nbsp;
+<img src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&amp;logo=gimp&amp;logoColor=FFFFFF" alt="Gimp" />&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&amp;logo=Matplotlib&amp;logoColor=black" alt="Matplotlib" />&nbsp;
+<img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&amp;logo=cmake&amp;logoColor=white" alt="CMake" />&nbsp;
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
 <br>
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&amp;logo=jira&amp;logoColor=white" alt="Jira" />&nbsp;
-<img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&amp;logo=prettier&amp;logoColor=black" alt="Prettier" />&nbsp;
-<img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat-square&amp;logo=tor-project&amp;logoColor=white" alt="TOR" />&nbsp;
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&amp;logo=Twilio&amp;logoColor=white" alt="Twilio" />
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&amp;logo=jira&amp;logoColor=white" alt="Jira" />&nbsp;
+<img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&amp;logo=prettier&amp;logoColor=black" alt="Prettier" />&nbsp;
+<img src="https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&amp;logo=tor-project&amp;logoColor=white" alt="TOR" />&nbsp;
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=plastic&amp;logo=Twilio&amp;logoColor=white" alt="Twilio" />
 </div>
 
 <div align="center">
