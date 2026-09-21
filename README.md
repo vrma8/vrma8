@@ -1,85 +1,24 @@
-<!-- Cool Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8">Ravi K. Verma</span></h1>
-<h3 align="center">🚀 B.Tech CSE @ NIT Hamirpur | Web App & Junior Penetration Tester | Robotics + Cybersecurity Enthusiast 🔐</h3>
+# 💫 About Me:
+🔭 I’m currently working on **Software Development & Cybersecurity Projects**<br>🤝 I’m looking to collaborate on **Cybersecurity, Software & Open-Source Projects**<br>🛡️ I’m currently exploring **System Security, Web Security & Secure Software Development**<br>🌱 I’m currently learning **Advanced Cybersecurity & Scalable Software Systems**<br>💬 Ask me about **Cybersecurity, C++, Web Development & Networking**<br>⚡ Fun fact: **I enjoy building systems just as much as breaking them**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravi-k-verma/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/vrma_nyt"><img src="https://img.shields.io/badge/TryHackMe-Red?style=flat&logo=tryhackme&logoColor=white" /></a>
-  <a href="mailto:24bcs096@nith.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ravi-k-verma&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NcA3NfsjCD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vrma_nyt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravi-k-verma) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vrma8) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vrma878) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:24bcs096@nith.ac.in) 
 
-### 🧠 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=plastic&logo=tampermonkey&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=plastic&logo=Apache%20Flink&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vrma8&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vrma8&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vrma8&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-🎓 I’m a **B.Tech CSE’28 student at NIT Hamirpur**, curious, driven, and committed to learning through hands-on experience.  
-💻 Currently diving into the world of **Cybersecurity**, exploring **ethical hacking, web application security, and network defense**.  
-🧩 I love experimenting with **hardware + security**, blending robotics with digital forensics and system protection.  
-🌱 Always learning.  
-🎯 My goal — to create tech that’s both **innovative and secure**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vrma8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-### ⚙️ Skills & Interests
-
-#### 💡 Programming Languages
-`C` `C++` `Python` `JavaScript`
-
-#### 🧰 Tools & Platforms
-`Kali Linux` `WSL` `ESP32` `Arduino` `Git` `VS Code` `CPN Tools` `GParted` `FlareVM`
-
-#### 🧩 Cybersecurity Tools
-`Nmap` `Wireshark` `Tcpdump` `Metasploit` `Burp Suite` `Hashcat` `Aircrack-ng`
-
-#### 🎯 Focus Areas
-`Ethical Hacking` | `Web Application Pentesting` | `Network Security` | `CTF Challenges` | `System Privacy`
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vrma8&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### 🧩 Experience
-
-| Role | Organization | Duration | Location |
-|------|---------------|-----------|-----------|
-| **Executive** | Robotics Society, NIT Hamirpur | 08/2025 – Present | Hamirpur, India |
-| **Volunteer** | Robotics Society, NIT Hamirpur | 11/2024 – 08/2025 | Hamirpur, India |
-| **Volunteer (Manager)** | E-Cell, NIT Hamirpur | 10/2024 – 01/2025 | Hamirpur, India |
-
----
-
-### 🏆 Certifications
-
-#### 🧑‍💻 Cisco
-- C++ Essentials 1  
-- Ethical Hacker  
-- Introduction to Cybersecurity  
-- JavaScript Essentials 1 & 2  
-- Networking Basics  
-- Python Essentials 1 & 2  
-
-#### 🔐 TryHackMe
-- Cyber Security 101  
-- Jr Penetration Tester  
-- Web Application Pentesting  
-- Web Fundamentals  
-- Pre Security  
-
----
-
-### 🧩 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ravi-k-verma"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://tryhackme.com/p/ravi-k-verma"><img src="https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme" /></a>
-  <a href="mailto:ravi@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🧩 Fun Quote
-> “The quieter you become, the more you can hear.”  
-> — *Ram Dass*
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-k-verma&theme=tokyo-night" width="100%"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
