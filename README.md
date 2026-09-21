@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/first.svg" width="100%" alt="Welcome" />
+<img src="./assets/profile.png" width="100%" alt="Welcome" />
 <br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=4000&amp;pause=1400&amp;color=E9D5FF&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=54&amp;lines=Hey+%3A%29;Build+secure.+Break+smart.+Learn+constantly.;Always+learning%2C+building%2C+breaking%2C+and+rebuilding+better" />
