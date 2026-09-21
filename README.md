@@ -3,7 +3,7 @@
 <br>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=4000&amp;pause=1400&amp;color=E9D5FF&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=54&amp;lines=Hey+%3A%29;Build+secure.+Break+smart.+Learn+constantly.;Always+learning%2C+building%2C+breaking%2C+and+rebuilding+better" />
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=4000&amp;pause=1400&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=54&amp;lines=Hey+%3A%29;Build+secure.+Break+smart.+Learn+constantly.;Always+learning%2C+building%2C+breaking%2C+and+rebuilding+better" width="92%" alt="Hey :) Build secure. Break smart. Learn constantly. Always learning, building, breaking, and rebuilding better" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=4000&amp;pause=1400&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=920&amp;height=54&amp;lines=Hey+%3A%29;Build+secure.+Break+smart.+Learn+constantly.;Always+learning%2C+building%2C+breaking%2C+and+rebuilding+better" width="92%" alt="Build secure. Break smart. Learn constantly. Always learning, building, breaking, and rebuilding better" />
 </picture>
 <br>
 <img src="./assets/sweep.gif" width="86%" alt="" />
