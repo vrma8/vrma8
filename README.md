@@ -24,7 +24,7 @@
 </p>
 </div>
 
-<div align="center">
+<div align="justify">
 <img src="./assets/sweep.svg" width="95%" alt="" />
 <h2>🌐 Socials:</h2>
 <a href="https://discord.gg/NcA3NfsjCD"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>&nbsp;&nbsp;
