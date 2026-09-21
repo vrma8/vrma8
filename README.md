@@ -10,7 +10,6 @@
 <br>
 <!-- <img src="./assets/emblem.gif" width="68%" alt="" />
 <br> -->
-<h1>Hey :)</h1>
 <h3>👨‍💻 About Me</h3>
 <p>
 🎓 Pre-Final Year B.Tech CSE student at <strong>National Institute of Technology, Hamirpur</strong><br>
