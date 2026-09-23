@@ -26,6 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Patch snake animation speed (slower crawl)
+        run: |
+          sed -i 's/animation-duration:[^;"}]*/animation-duration:20s/g' dist/github-snake.svg
+          sed -i 's/animation-duration:[^;"}]*/animation-duration:20s/g' dist/github-snake-dark.svg
+
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
