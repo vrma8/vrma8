@@ -6,9 +6,7 @@
 </picture>
 <br>
 <img src="./assets/sweep.svg" width="95%" alt="" />
-<br>
-<!-- <img src="./assets/emblem.gif" width="68%" alt="" />
-<br> -->
+
 <h3>👨‍💻 About Me</h3>
 </div>
 
