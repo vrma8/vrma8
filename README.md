@@ -92,11 +92,18 @@
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="" />
 <br>
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrma8/vrma8/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vrma8/vrma8/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vrma8/vrma8/output/github-snake.svg" />
-</picture>
+</picture> -->
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+        <img alt="3D Contribution City" src="./profile-3d-contrib/profile-night-green.svg" />
+    </picture>
+</p>
 
 <img src="./assets/horizon.svg" width="100%" alt="" />
 <div align="center">
