@@ -60,7 +60,9 @@
 <br>
 <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="38" title="Apache Cassandra" />&nbsp;
 <br><br>
-
+<!-- OS -->
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,kali&perline=12" alt="OS" />
+<br>
 <!-- Tools & Others -->
 <img src="https://skillicons.dev/icons?i=postman,figma,cmake,npm,pnpm,opencv,jira,eslint&perline=12" alt="Tools" />
 <br>
