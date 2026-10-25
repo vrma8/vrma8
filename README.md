@@ -40,13 +40,11 @@
 <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="38" title="AssemblyScript" />&nbsp;
 <img src="https://cdn.simpleicons.org/latex/008080" height="38" title="LaTeX" />&nbsp;
 <img src="https://cdn.simpleicons.org/markdown/000000" height="38" title="Markdown" />&nbsp;
-<img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" height="38" title="Windows Terminal" />
 <br><br>
 
 <!-- Frameworks & Libraries -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,threejs&perline=12" alt="Frameworks" />
 <br>
-<img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="38" title="React Native" />&nbsp;
 <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="38" title="Web3.js" />
 <br><br>
 
@@ -61,20 +59,16 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite,supabase,prisma&perline=12" alt="Databases" />
 <br>
 <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="38" title="Apache Cassandra" />&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="38" title="Microsoft SQL Server" />
 <br><br>
 
 <!-- Tools & Others -->
 <img src="https://skillicons.dev/icons?i=postman,figma,cmake,npm,pnpm,opencv,jira,eslint&perline=12" alt="Tools" />
 <br>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="38" title="Canva" />&nbsp;
 <img src="https://cdn.simpleicons.org/gimp/5C5543" height="38" title="GIMP" />&nbsp;
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="38" title="Matplotlib" />&nbsp;
 <img src="https://cdn.simpleicons.org/apacheflink/E6526F" height="38" title="Apache Flink" />&nbsp;
 <img src="https://cdn.simpleicons.org/tampermonkey/00485B" height="38" title="Tampermonkey" />&nbsp;
 <img src="https://cdn.simpleicons.org/ros/22314E" height="38" title="ROS" />&nbsp;
 <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="38" title="JWT" />&nbsp;
-<img src="https://cdn.simpleicons.org/twilio/F22F46" height="38" title="Twilio" />&nbsp;
 <img src="https://cdn.simpleicons.org/torproject/7E4798" height="38" title="TOR" />
 </div>
 
