@@ -25,7 +25,7 @@
 <div align="center">
 <img src="./assets/sweep.svg" width="95%" alt="" />
 <h2>🌐 Socials</h2>
-<a href="https://discord.gg/NcA3NfsjCD" title="Discord"><img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/NcA3NfsjCD" title="Discord"><img src="https://cdn.simpleicons.org/discord/5865F2" height="38" alt="Discord" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/vrma_nyt" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="38" alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ravi-k-verma" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@vrma8" title="Medium"><img src="https://cdn.simpleicons.org/medium/888888" height="38" alt="Medium" /></a>&nbsp;&nbsp;
@@ -34,7 +34,6 @@
 <br><br>
 <h1>💻 Tech Stack</h1>
 
-<!-- Languages -->
 <img src="https://cdn.simpleicons.org/c/A8B9CC" height="38" title="C" />&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="38" title="C++" />&nbsp;
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="38" title="C#" />&nbsp;
@@ -45,14 +44,11 @@
 <img src="https://cdn.simpleicons.org/css/1572B6" height="38" title="CSS" />&nbsp;
 <img src="https://cdn.simpleicons.org/php/777BB4" height="38" title="PHP" />&nbsp;
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="38" title="Bash" />&nbsp;
-<img src="https://skillicons.dev/icons?i=powershell" height="38" alt="PowerShell" />
-<br>
+<img src="https://skillicons.dev/icons?i=powershell" height="38" alt="PowerShell" />&nbsp;
 <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="38" title="AssemblyScript" />&nbsp;
 <img src="https://cdn.simpleicons.org/latex/008080" height="38" title="LaTeX" />&nbsp;
-<img src="https://cdn.simpleicons.org/markdown/000000" height="38" title="Markdown" />&nbsp;
-<br><br>
-
-<!-- Frameworks & Libraries -->
+<img src="https://cdn.simpleicons.org/markdown/000000" height="38" title="Markdown" />
+<br>
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="38" title="React" />&nbsp;
 <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="38" title="Next.js" />&nbsp;
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="38" title="Node.js" />&nbsp;
@@ -60,11 +56,8 @@
 <img src="https://cdn.simpleicons.org/fastapi/009688" height="38" title="FastAPI" />&nbsp;
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="38" title="Tailwind CSS" />&nbsp;
 <img src="https://cdn.simpleicons.org/threedotjs/000000" height="38" title="Three.js" />&nbsp;
-<br>
 <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="38" title="Web3.js" />
-<br><br>
-
-<!-- DevOps & Cloud -->
+<br>
 <img src="https://cdn.simpleicons.org/git/F05032" height="38" title="Git" />&nbsp;
 <img src="https://cdn.simpleicons.org/github/181717" height="38" title="GitHub" />&nbsp;
 <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="38" title="GitLab" />&nbsp;
@@ -74,12 +67,9 @@
 <img src="https://cdn.simpleicons.org/vercel/000000" height="38" title="Vercel" />&nbsp;
 <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="38" title="Netlify" />&nbsp;
 <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="38" title="Cloudflare" />&nbsp;
-<br>
 <img src="https://cdn.simpleicons.org/githubactions/2671E5" height="38" title="GitHub Actions" />&nbsp;
 <img src="https://cdn.simpleicons.org/render/46E3B7" height="38" title="Render" />
-<br><br>
-
-<!-- Databases & ORMs -->
+<br>
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="38" title="MySQL" />&nbsp;
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="38" title="PostgreSQL" />&nbsp;
 <img src="https://cdn.simpleicons.org/mongodb/47A248" height="38" title="MongoDB" />&nbsp;
@@ -88,15 +78,12 @@
 <img src="https://cdn.simpleicons.org/sqlite/003B57" height="38" title="SQLite" />&nbsp;
 <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="38" title="Supabase" />&nbsp;
 <img src="https://cdn.simpleicons.org/prisma/2D3748" height="38" title="Prisma" />&nbsp;
+<img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="38" title="Apache Cassandra" />
 <br>
-<img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="38" title="Apache Cassandra" />&nbsp;
-<br><br>
-<!-- OS -->
 <img src="https://skillicons.dev/icons?i=windows" height="38" alt="Windows" />&nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38" title="Ubuntu" />&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="38" title="Kali Linux" />&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="38" title="Kali Linux" />
 <br>
-<!-- Tools & Others -->
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="38" title="Postman" />&nbsp;
 <img src="https://cdn.simpleicons.org/figma/F24E1E" height="38" title="Figma" />&nbsp;
 <img src="https://cdn.simpleicons.org/cmake/064F8C" height="38" title="CMake" />&nbsp;
@@ -105,7 +92,6 @@
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="38" title="OpenCV" />&nbsp;
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="38" title="Jira" />&nbsp;
 <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="38" title="ESLint" />&nbsp;
-<br>
 <img src="https://cdn.simpleicons.org/gimp/5C5543" height="38" title="GIMP" />&nbsp;
 <img src="https://cdn.simpleicons.org/tampermonkey/00485B" height="38" title="Tampermonkey" />&nbsp;
 <img src="https://cdn.simpleicons.org/ros/22314E" height="38" title="ROS" />&nbsp;
@@ -113,7 +99,7 @@
 <img src="https://cdn.simpleicons.org/torproject/7E4798" height="38" title="TOR" />&nbsp;
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="38" title="Wireshark" />&nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="38" title="BurpSuite" />&nbsp;
-<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="38" title="Metasploit" />&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="38" title="Metasploit" />
 </div>
 
 <div align="center">
