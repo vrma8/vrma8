@@ -6,7 +6,10 @@
 </picture>
 <br>
 <img src="./assets/sweep.svg" width="95%" alt="" />
-@@ -13,10 +13,10 @@
+
+<h3>👨‍💻 About Me</h3>
+</div>
+
 <div align="left">
 <p>
 🎓 Pre-Final Year B.Tech CSE student at <strong>National Institute of Technology, Hamirpur</strong><br>
@@ -17,7 +20,8 @@
 🧠 Always learning, building, breaking, and rebuilding better<br>
 ⚡ <em>Build secure. Break smart. Learn constantly.</em>
 </p>
-@@ -25,72 +25,28 @@
+</div>
+
 <div align="center">
 <img src="./assets/sweep.svg" width="95%" alt="" />
 <h2>🌐 Socials</h2>
@@ -90,7 +94,13 @@
 <br>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrma8/vrma8/output/github-snake-dark.svg" />
-@@ -104,9 +60,3 @@
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vrma8/vrma8/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vrma8/vrma8/output/github-snake.svg" />
+</picture> -->
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
         <img alt="3D Contribution City" src="./profile-3d-contrib/profile-night-green.svg" />
     </picture>
 </p>
