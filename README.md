@@ -70,7 +70,10 @@
 <img src="https://cdn.simpleicons.org/tampermonkey/00485B" height="38" title="Tampermonkey" />&nbsp;
 <img src="https://cdn.simpleicons.org/ros/22314E" height="38" title="ROS" />&nbsp;
 <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="38" title="JWT" />&nbsp;
-<img src="https://cdn.simpleicons.org/torproject/7E4798" height="38" title="TOR" />
+<img src="https://cdn.simpleicons.org/torproject/7E4798" height="38" title="TOR" />&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="38" title="Wireshark" />&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="38" title="BurpSuite" />&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="38" title="Metasploit" />&nbsp;
 </div>
 
 <div align="center">
