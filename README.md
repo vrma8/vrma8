@@ -36,7 +36,7 @@
 
 <img src="https://cdn.simpleicons.org/c/A8B9CC" height="38" title="C" />&nbsp;
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="38" title="C++" />&nbsp;
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="38" title="C#" />&nbsp;
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="38" title="DotNET" />&nbsp;
 <img src="https://cdn.simpleicons.org/python/3776AB" height="38" title="Python" />&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="38" title="JavaScript" />&nbsp;
 <img src="https://cdn.simpleicons.org/typescript/3178C6" height="38" title="TypeScript" />&nbsp;
@@ -82,7 +82,10 @@
 <br>
 <img src="https://skillicons.dev/icons?i=windows" height="38" alt="Windows" />&nbsp;
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="38" title="Ubuntu" />&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="38" title="Kali Linux" />
+<img src="https://cdn.simpleicons.org/kali/557C94" height="38" title="Kali Linux" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="38" title="Wireshark" />&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="38" title="BurpSuite" />&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="38" title="Metasploit" />
 <br>
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="38" title="Postman" />&nbsp;
 <img src="https://cdn.simpleicons.org/figma/F24E1E" height="38" title="Figma" />&nbsp;
@@ -97,9 +100,6 @@
 <img src="https://cdn.simpleicons.org/ros/22314E" height="38" title="ROS" />&nbsp;
 <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="38" title="JWT" />&nbsp;
 <img src="https://cdn.simpleicons.org/torproject/7E4798" height="38" title="TOR" />&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="38" title="Wireshark" />&nbsp;
-<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="38" title="BurpSuite" />&nbsp;
-<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="38" title="Metasploit" />
 </div>
 
 <div align="center">
