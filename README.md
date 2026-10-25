@@ -67,7 +67,6 @@
 <img src="https://skillicons.dev/icons?i=postman,figma,cmake,npm,pnpm,opencv,jira,eslint&perline=12" alt="Tools" />
 <br>
 <img src="https://cdn.simpleicons.org/gimp/5C5543" height="38" title="GIMP" />&nbsp;
-<img src="https://cdn.simpleicons.org/apacheflink/E6526F" height="38" title="Apache Flink" />&nbsp;
 <img src="https://cdn.simpleicons.org/tampermonkey/00485B" height="38" title="Tampermonkey" />&nbsp;
 <img src="https://cdn.simpleicons.org/ros/22314E" height="38" title="ROS" />&nbsp;
 <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="38" title="JWT" />&nbsp;
